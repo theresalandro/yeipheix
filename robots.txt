@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pohghaeca.salebarn.com/sitemap.xml
